@@ -9,28 +9,29 @@
 </head>
 <body>
     <header>
-        <h1 id="greeting">Welcome to [Islam | إسلام]</h1>
+        <h1 id="greeting">Welcome to [Islam Server]</h1>
     </header>
 
     <section id="about">
         <h2>About Our Discord Server</h2>
-        <p id="server-desc">This is a community server where you can chat, play games, and hang out with awesome people and debate about topics you're interested in. Join us for events, game nights, and great discussions!</p>
+        <p id="server-desc">This is a community server where you can chat, play games, and hang out with awesome people. Join us for events, game nights, and great discussions!</p>
     </section>
 
     <section id="join">
         <h2>Join the Community</h2>
-        <a href="https://discord.gg/taymi" class="join-btn">Join Discord Server</a>
+        <a href="https://discord.gg/YOUR_INVITE_CODE" class="join-btn">Join Discord Server</a>
     </section>
 
     <section id="widget">
         <h2>Live Discord Widget</h2>
-        <iframe src="https://discord.com/widget?id=1275965353935241259&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+        <iframe src="https://discord.com/widget?id=YOUR_SERVER_ID&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
     </section>
 
     <footer>
-        <p>© 2024 [Islam | إسلام]. All rights reserved.</p>
+        <p>© 2024 [Islam Server]. All rights reserved.</p>
     </footer>
 
+    <!-- Link your JavaScript file here -->
     <script src="script.js"></script>
 </body>
 </html>
