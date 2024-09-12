@@ -4,11 +4,11 @@ document.addEventListener("DOMContentLoaded", function () {
     const greetingElement = document.getElementById('greeting');
     
     if (hours < 12) {
-        greetingElement.textContent = 'Good Morning! Welcome to [Your Discord Server Name]';
+        greetingElement.textContent = 'Good Morning! Welcome to [Islam Server]';
     } else if (hours < 18) {
-        greetingElement.textContent = 'Good Afternoon! Welcome to [Your Discord Server Name]';
+        greetingElement.textContent = 'Good Afternoon! Welcome to [Islam Server]';
     } else {
-        greetingElement.textContent = 'Good Evening! Welcome to [Your Discord Server Name]';
+        greetingElement.textContent = 'Good Evening! Welcome to [Islam Server]';
     }
 
     // Typewriter Effect for Description
