@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Your Discord Server</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1 id="greeting">Welcome to [Islam | إسلام]</h1>
+    </header>
+
+    <section id="about">
+        <h2>About Our Discord Server</h2>
+        <p id="server-desc">This is a community server where you can chat, play games, and hang out with awesome people and debate about topics you're interested in. Join us for events, game nights, and great discussions!</p>
+    </section>
+
+    <section id="join">
+        <h2>Join the Community</h2>
+        <a href="https://discord.gg/taymi" class="join-btn">Join Discord Server</a>
+    </section>
+
+    <section id="widget">
+        <h2>Live Discord Widget</h2>
+        <iframe src="https://discord.com/widget?id=YOUR_SERVER_ID&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+    </section>
+
+    <footer>
+        <p>© 2024 [Islam | إسلام]. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
